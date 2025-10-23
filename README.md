@@ -27,4 +27,4 @@ if (nota <0 || nota  >10) {
 entonces cree en la linea del if un breakpoint, despues le di al click derecho del raton y me fui a "breakpoints propierties". Una vez dentro le di a la opción de "conditional" y "Suspend when true". Despues escribi en el cuadro de texto lo siguiente:
 nota <0 || nota > 10. Por ultimo le di a "Apply and Close".
 
-Hecho por: Jhonatan Cano León.
+***Hecho por: Jhonatan Cano León.***
